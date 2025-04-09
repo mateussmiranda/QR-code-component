@@ -27,5 +27,4 @@ Clone the repository and open the `index.html` file in your browser:
 git clone https://github.com/mateussmiranda/qr-code-component.git
 cd qr-code-component
 
-
-Made with ❤️ by Mateus.
+# Made with ❤️ by Mateus.
